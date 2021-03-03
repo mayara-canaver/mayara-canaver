@@ -7,7 +7,7 @@
 [![Linkedin: in/mayara-canaver/](https://img.shields.io/badge/Mayara_Canaver-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in/mayara-canaver/)
 </p>
 
-### <img src="https://media.giphy.com/media/vc0z5hIqODyhO/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/6nWT5GyxsmAoM/giphy.gif" width="50"> A little more about me...
 
 - 🔭 I’m currently working on: Machine Learning projects.
 - 🌱 I’m currently learning: Python 3, AI and Machine Learning.
