@@ -10,8 +10,8 @@
 
 ### <img src="https://media.giphy.com/media/6nWT5GyxsmAoM/giphy.gif" width="50"> A little more about me...
 
-- 🔭 I’m currently working on: Machine Learning Projects and Golang Exercises;
-- 🌱 I’m currently learning: Python 3, Machine Learning and a little bit of Golang;
+- 🔭 I’m currently working on: time series and product similarity;
+- 🌱 I’m currently learning: Python 3, Machine Learning and a little bit of NLP;
 - 📫 How to reach me: contact me on LinkedIn <3;
 - ⚡ Fun fact: I love Dark Souls! Plin plin plon.<br/><br/>
 <br><br>
@@ -23,9 +23,7 @@
 Um pouquinho sobre mim :D ...
 <br>
   <ul>
-    <li>🔭 Estou atualmente trabalhando em: projetos de Machine Learning e fazendo exercícios em Golang;</li>
-    <li>🌱 Estou também aprendendo: Python 3, Machine Learning e um pouco de Golang;</li>
+    <li>🔭 Estou atualmente trabalhando em: análise de séries temporais e similaridade de produtos;</li>
+    <li>🌱 Estou também aprendendo: Python 3, Machine Learning e um pouco de NLP;</li>
     <li>📫 Você pode me contatar: através do LinkedIn <3;</li>
     <li>⚡ Fato interessante!: Eu adoro Dark Souls! Plin plin plon.<br/><br/></li>
-    
-<h4 align='center'>amortesalva</h4>
