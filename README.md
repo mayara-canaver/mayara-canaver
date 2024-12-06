@@ -29,6 +29,6 @@ I'm passionate about leveraging data to drive business decisions and uncover val
 
 ## 📧 Contact me
 [![Instagram: mayara.canaver](https://img.shields.io/badge/Mayara_Canaver-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mayara.canaver/)
-[![Linkedin: in/mayara-canaver/](https://img.shields.io/badge/Mayara_Canaver-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in/mayara-canaver/)
+[![Linkedin: in/mayara-canaver/](https://img.shields.io/badge/Mayara_Canaver-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayara-canaver/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
